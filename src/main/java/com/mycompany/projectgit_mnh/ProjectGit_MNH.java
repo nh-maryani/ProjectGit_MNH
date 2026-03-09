@@ -12,5 +12,8 @@ public class ProjectGit_MNH {
 
     public static void main(String[] args) {
         System.out.println("--- Sistema de Gestión");
+        System.out.println("Bienvenido, Usuario Estudiante.");
+        
+        
     }
 }
